@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {"id": 0, "name": "bags_and_cases", "patterns": ["\\b(?:(?:paper|poly|carry|hand)\\s+bags?|bags?|backpacks?|rucksacks?|suitcases?|luggage|pouches?|handbags?|polybags?|carrybags?|briefcases?)\\b"]},
+    {"id": 1, "name": "wallets_cash_and_cards", "patterns": ["\\b(?:wallets?|purses?|cash|currency|cards?|money|passports?|identification)\\b"]},
+    {"id": 2, "name": "electronics", "patterns": ["\\b(?:ear\\s*buds?|ear\\s*phones?|head\\s*phones?|headsets?|mobiles?|phones?|smartphones?|laptops?|tablets?|chargers?|power\\s*banks?|pen\\s*drives?|usb|neck\\s*bands?|mouse|keyboards?|cameras?|tripods?|speakers?|remotes?)\\b"]},
+    {"id": 3, "name": "clothing_and_footwear", "patterns": ["\\b(?:cloth(?:e?s)?|clothings?|cloths|jackets?|shirts?|sweaters?|coats?|shoes?|sandals?|slippers?|socks?|sarees?|jeans|shawls?|kurtis?|blazers?|trousers?|pants|caps?|scarves|gloves|uniforms?)\\b"]},
+    {"id": 4, "name": "food_and_drink_containers", "patterns": ["\\b(?:bottles?|flasks?|tiffins?|lunch\\s*(?:box(?:es)?|bags?)|thermos|mugs?|tumblers?)\\b"]},
+    {"id": 5, "name": "jewelry_and_watches", "patterns": ["\\b(?:watches|watch|rings?|ear\\s*rings?|chains?|ornaments?|anklets?|payals?|bracelets?|necklaces?|mangalsutra|mangalshutra|bangles?|pendants?)\\b"]},
+    {"id": 6, "name": "umbrellas_and_helmets", "patterns": ["\\b(?:umbrellas?|helmets?|raincoats?)\\b"]},
+    {"id": 7, "name": "eyewear", "patterns": ["\\b(?:spectacles?|sunglasses|sun\\s+glasses|glasses|goggles|eyeglasses)\\b"]},
+    {"id": 8, "name": "books_documents_and_stationery", "patterns": ["\\b(?:books?|notebooks?|diaries|diary|documents?|papers?|files?|folders?|certificates?|pens?|pencils?)\\b"]},
+    {"id": 9, "name": "other", "patterns": []}
+  ]
+}
